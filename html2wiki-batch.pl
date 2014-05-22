@@ -2,6 +2,9 @@
 
 ## Converts a folder of HTML files (eg export from PBworks)
 ## to a MediaWiki XML import file.
+#
+# Corey Ford
+# August 2009
 
 use warnings;
 use strict;

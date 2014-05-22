@@ -1,5 +1,8 @@
 #!/usr/bin/perl
 # Usage: $0 lightbox_page images_dir out_dir
+#
+# Corey Ford
+# March 2010
 
 use warnings;
 use strict;
